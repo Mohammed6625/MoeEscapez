@@ -12,7 +12,7 @@ Feel free to fork the repository, make improvements, and submit pull requests. Y
 
 ## Connect
 
-- [YouTube Channel]([https://www.youtube.com/channel/UCT7er0BDDDAQs85SggFN3BQ])
+- [YouTube Channel][https://www.youtube.com/channel/UCT7er0BDDDAQs85SggFN3BQ]
 - [Contact Email](mailto:momo_combat@yahoo.com)
 
 Thank you for being a part of this journey!
